@@ -4,8 +4,8 @@ The data set from UC Irvine’s Machine Learning Repository [Dataset url](https:
 
 
 Notebooks
-1. [1_EDA.ipynb](https://github.com/Birinder1469/BankMarketing_CaseStudy/blob/main/1_EDA.ipynb)
+[1_EDA.ipynb](https://github.com/Birinder1469/BankMarketing_CaseStudy/blob/main/1_EDA.ipynb)
 
-2. [2_Modelling.ipynb](https://github.com/Birinder1469/BankMarketing_CaseStudy/blob/main/2_Modelling.ipynb)
+[2_Modelling.ipynb](https://github.com/Birinder1469/BankMarketing_CaseStudy/blob/main/2_Modelling.ipynb)
 
-3. [3_ModelTuning_HoldOutDatasetEvaluation.ipynb](https://github.com/Birinder1469/BankMarketing_CaseStudy/blob/main/3_ModelTuning_HoldOutDatasetEvaluation.ipynb)
+[3_ModelTuning_HoldOutDatasetEvaluation.ipynb](https://github.com/Birinder1469/BankMarketing_CaseStudy/blob/main/3_ModelTuning_HoldOutDatasetEvaluation.ipynb)

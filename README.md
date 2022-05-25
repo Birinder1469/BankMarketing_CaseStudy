@@ -42,6 +42,19 @@ Data preparation and baseline model implemtation.
 
 Hyperparameter tuning and implementation of final model on the hold out dataset.
 
+
+
+## Results 
+
+
+| model|Train ROC-AUC score	 |Validation ROC-AUC score |Test ROC-AUC score |
+| ------| ------	 | ------ | ------|
+| Logistic Regression| 0.798736	 | 0.787251 | 0.789623|
+| Random Forest| 0.802594	 | 0.787835 | 0.787706|
+| XGBoost | 0.825193	 | 0.794103 |0.791861|
+
+
+
 ## Author
 
 | Birinder Singh | 

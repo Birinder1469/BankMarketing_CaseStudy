@@ -24,13 +24,13 @@ For this analysis I have used Dataset 1(bank-additional-full.csv) which is most 
 
 The processing was done in Google colaboratory. The package versions are listed in the requirements.txt file.
 
-[1 EDA.ipynb](https://github.com/Birinder1469/BankMarketing_CaseStudy/blob/main/Notebooks/1_EDA.ipynb) <br>
-Detailed exploratory data analysis. 
+1 [EDA.ipynb](https://github.com/Birinder1469/BankMarketing_CaseStudy/blob/main/Notebooks/1_EDA.ipynb) <br>
+Detailed exploratory data analysis.  
 
-[2 Modelling.ipynb](https://github.com/Birinder1469/BankMarketing_CaseStudy/blob/main/Notebooks/2_Modelling.ipynb)<br>
+2 [Modelling.ipynb](https://github.com/Birinder1469/BankMarketing_CaseStudy/blob/main/Notebooks/2_Modelling.ipynb)<br>
 Data preparation and baseline model implemtation.
 
-[3 ModelTuning HoldOut Dataset Evaluation.ipynb](https://github.com/Birinder1469/BankMarketing_CaseStudy/blob/main/Notebooks/3_ModelTuning_HoldOutDatasetEvaluation.ipynb)<br>
+3 [ModelTuning HoldOut Dataset Evaluation.ipynb](https://github.com/Birinder1469/BankMarketing_CaseStudy/blob/main/Notebooks/3_ModelTuning_HoldOutDatasetEvaluation.ipynb)<br>
 Hyperparameter tuning and implementation of final model on the hold out dataset.
 
 

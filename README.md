@@ -22,7 +22,7 @@ For this analysis I have used Dataset 1(bank-additional-full.csv) which is most 
 
 ## Analysis Notebooks  
 
-The processing was done in Google colaboratory. The package versions are listed in the requirements.txt file.
+The processing was done in Google colaboratory. The package versions are listed in the requirements.txt file. The analysis is split into following three notebooks.
 
 1 [EDA.ipynb](https://github.com/Birinder1469/BankMarketing_CaseStudy/blob/main/Notebooks/1_EDA.ipynb) <br>
 Detailed exploratory data analysis.  

@@ -31,13 +31,13 @@ The processing was done in Google colab notebooks. The package versions are list
 Three notebooks listed below contain end to end implentation. 
 
 
-[1 EDA.ipynb](https://github.com/Birinder1469/BankMarketing_CaseStudy/blob/main/1_EDA.ipynb)
+[1 EDA.ipynb](https://github.com/Birinder1469/BankMarketing_CaseStudy/blob/main/Notebooks/1_EDA.ipynb)
 Detailed exploratory data analysis. 
 
-[2 Modelling.ipynb](https://github.com/Birinder1469/BankMarketing_CaseStudy/blob/main/2_Modelling.ipynb)
+[2 Modelling.ipynb](https://github.com/Birinder1469/BankMarketing_CaseStudy/blob/main/Notebooks/2_Modelling.ipynb)
 Data preparation and baseline model implemtation.
 
-[3 ModelTuning HoldOut Dataset Evaluation.ipynb](https://github.com/Birinder1469/BankMarketing_CaseStudy/blob/main/3_ModelTuning_HoldOutDatasetEvaluation.ipynb)
+[3 ModelTuning HoldOut Dataset Evaluation.ipynb](https://github.com/Birinder1469/BankMarketing_CaseStudy/blob/main/Notebooks/3_ModelTuning_HoldOutDatasetEvaluation.ipynb)
 Hyperparameter tuning and implementation of final model on the hold out dataset.
 
 

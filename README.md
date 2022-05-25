@@ -38,7 +38,7 @@ Hyperparameter tuning and implementation of final model on the hold out dataset.
 ## Results 
 
 
-| model|Train ROC-AUC score	 |Validation ROC-AUC score |Test ROC-AUC score |
+| Model|Train ROC-AUC score	 |Validation ROC-AUC score |Test ROC-AUC score |
 | ------| ------	 | ------ | ------|
 | Logistic Regression| 0.798736	 | 0.787251 | 0.789623|
 | Random Forest| 0.802594	 | 0.787835 | 0.787706|
@@ -55,8 +55,8 @@ There is a scope of further experimentation:
 1. Try Neural networks to capture non linear mapping 
 2. Try RBF and polynomial kernels for SVM instead of linear SVM
 3. Feature selection tests
-- Chi square for categorical variables
-- ANOVA test for numeric 
+-- Chi square for categorical variables
+-- ANOVA test for numeric 
 4. Try dimensionality reduction to combine the correlated features
 5. Run undersampling, oversampling techniques to balance the target categories
 6. Compute SHAP values to understand the contribution of each feature to subscription 

@@ -66,3 +66,7 @@ There is a scope of further experimentation:
 | Birinder Singh | 
 | ------------- | 
 | [@Birinder1469](https://github.com/Birinder1469) | 
+
+## License
+
+[MIT License](https://github.com/Birinder1469/BankMarketing_CaseStudy/blob/main/LICENSE)
